@@ -1,0 +1,33 @@
+body {
+    width: 1440px;
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.main {
+    position: absolute;
+    left: 43%;
+    top: 17%;
+    border-radius: 20px;
+    text-align: center ;
+    width: 280px;
+    background-color: hsl(0, 0%, 100%);
+}
+
+.main img {
+    border-radius: 20px;
+    width: 250px;
+    padding: 10px;
+}
+
+.main .title {
+    font-weight: 700;
+    font-size: 20px;
+    padding: 0 20px;
+}
+
+p {
+    font-weight: 400;
+    padding: 0 20px 30px 20px;
+}
